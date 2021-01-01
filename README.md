@@ -6,11 +6,14 @@ Nomad Coder Momentum Clone Coding Class
 <ul>grettings.js</ul>
 <ul>todo.js</ul>
 <ul>weather.js</ul>
+<ul>chromeApp.html</ul>
+<ul>style.css</ul>
 
 # Function
 <ul>Remember User Name</ul>
 <ul>Make ToDo List</ul>
 <ul>Get Weather Information from Web</ul>
+<ul>Change Background Images when you open html</ul>
 
 # ScreenShot
 
