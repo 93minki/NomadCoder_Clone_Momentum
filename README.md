@@ -1,5 +1,4 @@
 # NomadCoder_Clone_Momentum
 Nomad Coder Momentum Clone Coding Class
 
-<h1>Nomad Coder Clone Coding Class</h1>
-<h2>make Momentum</h2>
+
