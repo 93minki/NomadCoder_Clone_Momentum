@@ -1,6 +1,16 @@
 # NomadCoder_Clone_Momentum
 Nomad Coder Momentum Clone Coding Class
 
+# Code
+<ul>clock.js</ul>
+<ul>grettings.js</ul>
+<ul>todo.js</ul>
+<ul>weather.js</ul>
+
+# Function
+<ul>Remember User Name</ul>
+<ul>Make ToDo List</ul>
+<ul>Get Weather Information from Web</ul>
 
 # ScreenShot
 
